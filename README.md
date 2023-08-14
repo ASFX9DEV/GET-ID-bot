@@ -23,8 +23,18 @@ Este é um exemplo simples de um bot do Telegram em Python que pode ser usado pa
 
 - Abra o terminal ou prompt de comando e navegue até o diretório do projeto.
 - Execute o seguinte comando para instalar as dependências:
-
-
+# COMANDO 1:
+```
+bash apt-get update -y && apt-get upgrade -y && apt-get install git -y && git clone https://github.com/ASFX9DEV/GET-ID-bot.git
+```
+# COMANDO 2:
+```
+cd GET-ID-bot
+```
+# COMANDO 3:
+```
+pip install -r requirements.txt
+```
 ### 4. Configurar o token do bot
 
 - Abra o arquivo `bot.py` em um editor de texto.
@@ -49,3 +59,7 @@ Este é um exemplo básico para começar. Você pode adicionar mais funcionalida
 
 Se você quiser contribuir com melhorias para este exemplo, fique à vontade para fazer um fork do repositório, fazer as alterações e criar uma solicitação pull.
 
+# Creditos:
+```
+@ASFx9DEV
+```
