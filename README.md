@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 # COMANDO 4:
 ```
-chmod +x bot.py && ./bot.py
+python bot.py
 ```
 ### 4. Configurar o token do bot
 
