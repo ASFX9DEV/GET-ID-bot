@@ -35,6 +35,10 @@ cd GET-ID-bot
 ```
 pip install -r requirements.txt
 ```
+# COMANDO 4:
+```
+chmod +x bot.py && ./bot.py
+```
 ### 4. Configurar o token do bot
 
 - Abra o arquivo `bot.py` em um editor de texto.
